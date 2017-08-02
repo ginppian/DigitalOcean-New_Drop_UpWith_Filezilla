@@ -207,4 +207,4 @@ Crear Un Drop(VPS) En DigitalOcean Y Compartir Archivos A Través de SFTP Con Fi
 
 ## Fuente
 
-<a src="https://www.digitalocean.com/community/tutorials/how-to-create-a-sudo-user-on-ubuntu-quickstart">How to create a sudo user ubuntu</a>
+<a href="https://www.digitalocean.com/community/tutorials/how-to-create-a-sudo-user-on-ubuntu-quickstart">How to create a sudo user ubuntu</a>
