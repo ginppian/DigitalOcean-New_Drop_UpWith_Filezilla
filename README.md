@@ -153,27 +153,28 @@ Crear Un Drop(VPS) En DigitalOcean Y Compartir Archivos A Través de SFTP Con Fi
     <img src="https://github.com/ginppian/DigitalOcean-New_Drop_UpWith_Filezilla/blob/master/imgs/img34.png" width="682" height="350">
 </p>
 
-* Exportamos nuestra llave privada
+
 
 <p align="center">
     <img src="https://github.com/ginppian/DigitalOcean-New_Drop_UpWith_Filezilla/blob/master/imgs/img35.png" width="682" height="350">
 </p>
 
+* Exportamos nuestra llave privada
+
 <p align="center">
     <img src="https://github.com/ginppian/DigitalOcean-New_Drop_UpWith_Filezilla/blob/master/imgs/img36.png" width="682" height="350">
 </p>
 
-* Configuramos una nueva conexión y lo dejamos sin contraseña debído a que ya tenemos nuestra llave ssh
 
 <p align="center">
     <img src="https://github.com/ginppian/DigitalOcean-New_Drop_UpWith_Filezilla/blob/master/imgs/img37.png" width="682" height="350">
 </p>
 
-* Damos aceptar, aceptar, aceptar
-
 <p align="center">
     <img src="https://github.com/ginppian/DigitalOcean-New_Drop_UpWith_Filezilla/blob/master/imgs/img38.png" width="682" height="350">
 </p>
+
+* Configuramos una nueva conexión y lo dejamos sin contraseña debído a que ya tenemos nuestra llave ssh
 
 <p align="center">
     <img src="https://github.com/ginppian/DigitalOcean-New_Drop_UpWith_Filezilla/blob/master/imgs/img39.png" width="682" height="350">
@@ -183,7 +184,7 @@ Crear Un Drop(VPS) En DigitalOcean Y Compartir Archivos A Través de SFTP Con Fi
     <img src="https://github.com/ginppian/DigitalOcean-New_Drop_UpWith_Filezilla/blob/master/imgs/img40.png" width="682" height="350">
 </p>
 
-* Ya podemos copiar archivos bidireccionalmente.
+* Damos aceptar, aceptar, aceptar
 
 <p align="center">
     <img src="https://github.com/ginppian/DigitalOcean-New_Drop_UpWith_Filezilla/blob/master/imgs/img41.png" width="682" height="350">
@@ -196,6 +197,8 @@ Crear Un Drop(VPS) En DigitalOcean Y Compartir Archivos A Través de SFTP Con Fi
 <p align="center">
     <img src="https://github.com/ginppian/DigitalOcean-New_Drop_UpWith_Filezilla/blob/master/imgs/img43.png" width="682" height="350">
 </p>
+
+* Ya podemos copiar archivos bidireccionalmente.
 
 <p align="center">
     <img src="https://github.com/ginppian/DigitalOcean-New_Drop_UpWith_Filezilla/blob/master/imgs/img44.png" width="682" height="350">
