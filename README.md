@@ -149,6 +149,9 @@ Crear Un Drop(VPS) En DigitalOcean Y Compartir Archivos A Través de SFTP Con Fi
     <img src="https://github.com/ginppian/DigitalOcean-New_Drop_UpWith_Filezilla/blob/master/imgs/img33.png" width="682" height="350">
 </p>
 
+* Exportamos nuestra llave privada
+
+
 <p align="center">
     <img src="https://github.com/ginppian/DigitalOcean-New_Drop_UpWith_Filezilla/blob/master/imgs/img34.png" width="682" height="350">
 </p>
@@ -159,7 +162,6 @@ Crear Un Drop(VPS) En DigitalOcean Y Compartir Archivos A Través de SFTP Con Fi
     <img src="https://github.com/ginppian/DigitalOcean-New_Drop_UpWith_Filezilla/blob/master/imgs/img35.png" width="682" height="350">
 </p>
 
-* Exportamos nuestra llave privada
 
 <p align="center">
     <img src="https://github.com/ginppian/DigitalOcean-New_Drop_UpWith_Filezilla/blob/master/imgs/img36.png" width="682" height="350">
