@@ -2,5 +2,5 @@ Crear Un Drop(VPS) En DigitalOcean Y Compartir Archivos A Través de SFTP Con Fi
 ======================
 
 <p align="center">
-    <img src="" width="" height="">
+    <img src="https://github.com/ginppian/DigitalOcean-New_Drop_UpWith_Filezilla/blob/master/imgs/img1.png" width="682" height="350">
 </p>
